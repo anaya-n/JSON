@@ -1,4 +1,8 @@
 {
-"text task":"none"
+    "name":"Anastasia",
+    "lastName":"hehe",
+    "age": 28,
+    "petsAmount": 1,
+    "futureSalary":"much more than i can imagine"
 }
 
